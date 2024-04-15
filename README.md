@@ -1,3 +1,3 @@
 # GeoCacher
 
-![](https://github.com/GaryZhous/Othello/blob/main/othello.gif)
+![](https://github.com/GaryZhous/GeoCacher/blob/main/PathAnimated.gif)
