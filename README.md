@@ -3,4 +3,5 @@ This is a Geographic Information Software developed in C++. We used GTK graphics
 
 ### Overview
 <img src="https://github.com/GaryZhous/GeoCacher/blob/main/Overview.png">
+
 ![](https://github.com/GaryZhous/GeoCacher/blob/main/PathAnimated.gif)
