@@ -1,4 +1,4 @@
-# GeoCacher
+# GeoQuester
 This is a Geographic Information Software developed in C++ for our software design course ECE297. We used GTK graphics library to construct the canvas and those interactive widgets, with geographical data from OpenStreetMap API. Resembling Google Maps (well not really), it offers several intriguing features, including:
   * Annotation (We used SQLite to store user's annotation data)
   * Intersection highlighting & Information display
