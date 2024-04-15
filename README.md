@@ -7,5 +7,8 @@ This is a Geographic Information Software developed in C++ for our software desi
 ### Overview
 <img src="https://github.com/GaryZhous/GeoCacher/blob/main/Overview.png">
 
+### User's Annotation
+<img src="https://github.com/GaryZhous/GeoCacher/blob/main/UserData.png">
+
 ### Shortest Path Finding with Animation
 ![](https://github.com/GaryZhous/GeoCacher/blob/main/PathAnimated.gif)
