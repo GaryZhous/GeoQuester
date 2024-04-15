@@ -19,3 +19,6 @@ With a solid multi-destination Dijskra's algorithm and a good greedy path recons
 <img src="https://github.com/GaryZhous/GeoCacher/blob/main/TSP_Ranking.png">
 
 **Due to the Academic Integrity rules of University of Toronto, this project is not open-sourced. But if you would like to know more about our design, feel free to contact us!**
+  * [Gary](https://github.com/GaryZhous)
+  * [Ayaan](https://github.com/N00dleMaster)
+  * [Ahadu](https://github.com/AhaduH)
