@@ -36,7 +36,7 @@ class Element {
 }
 
 public class RouteFinder {
-
+    //turn penalty is the time spent to take a turn at the end of a street, and numIntesections is the V
     public static List<Element> findPathsToMultipleDestinations(float turnPenalty, int start, List<Integer> destinations, int numIntersections) {
         PriorityQueue<PathNode> pq = new PriorityQueue<>();
         double[] gCost = new double[numIntersections];
@@ -55,7 +55,7 @@ public class RouteFinder {
             int currentIdx = currentNode.idx;
 
             // This function should be implemented to fetch relevant street segments
-            for (Integer currentSeg : findStreetSegmentsOfIntersection(currentIdx)) {
+            for (Integer currentSeg : findStreetSegmentsOfIntersection(currentIdx)) { //this is the edges
                 StreetSegmentInfo segInfo = getStreetSegmentInfo(currentSeg);
                 if (segInfo.oneWay && segInfo.from != currentIdx) continue;
                 
