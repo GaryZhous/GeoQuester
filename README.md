@@ -15,7 +15,7 @@ This is a Geographic Information Software developed in C++ for our software desi
 
 ### Traveling Courier Contest
 At the end of the course, we were asked to design an effective solution to tackle a variant of TSP (Traveling Salesman Problem). We need to provide a courier with an optimum route to pick up and deliver all the items required starting from a depot and ending at the same depot. 
-![](https://github.com/GaryZhous/GeoQuester/blob/main/TSP_example.png)
+![](https://github.com/GaryZhous/GeoQuester/blob/main/Traveling_Courier_example.png)
 The quality (route travel times) of the routes we found in various tricky test cases will be used in the leaderboard of this contest.
 With a solid multi-destination Dijskra's algorithm and a good greedy path reconstruction approach, our solution ranked #9 among 91 teams.
 <img src="https://github.com/GaryZhous/GeoCacher/blob/main/TSP_Ranking.png">
