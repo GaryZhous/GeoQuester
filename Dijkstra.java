@@ -1,7 +1,7 @@
 /* this is the pseudo-implementation of our multi-destination Dijkstra's algorithm in java. 
    This is only for learning purposes, please do not copy it straight away as it might result in a serious academic offense!
    the function has a time complexity of O((E+V)logV) in which E represents the number of edges in the map and V is the number of street intersections. 
-   However, since the number of E is much smaller, the actual time complexity is nearly O(VlogV).
+   However, since the number of E is much smaller, the actual time complexity is approximately O(VlogV).
    copyright: Gary Zhou, 2024
 */
 import java.util.*;
