@@ -10,6 +10,9 @@ This is a Geographic Information System (GIS) application developed in C++ for o
 ### User's Annotation
 <img src="https://github.com/GaryZhous/GeoCacher/blob/main/UserData.png">
 
+### Dark Mode
+<img src="https://github.com/GaryZhous/GeoQuester/blob/main/Dark_Mode.png">
+
 ### Shortest Path Finding with Animation
 ![](https://github.com/GaryZhous/GeoCacher/blob/main/PathAnimated.gif)
 
