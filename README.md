@@ -2,7 +2,7 @@
 This is a Geographic Information System (GIS) application developed in C++ for our software design course ECE297. We used GTK graphics library to construct the canvas and those interactive widgets, with geographical data from OpenStreetMap API. Resembling Google Maps, it offers several intriguing features, including:
   * Annotation (We used SQLite to store user's annotation data)
   * Dark Mode Switch
-  * Finding shortest paths between intersections with animation (We used A* algorithm to find the shortest paths)
+  * Shortest paths finding between intersections with animation (We used A* algorithm to find the shortest paths)
 
 ### Overview
 <img src="https://github.com/GaryZhous/GeoCacher/blob/main/Overview.png">
